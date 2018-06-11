@@ -1,0 +1,26 @@
+ans 1
+print("delhi is capital if india")
+ans2
+print("acad"+"view")
+
+ans3
+x=3
+y=4
+z=5
+print("value of x znd y and z are",x,y,z )
+
+ans4
+print("let's get started")
+
+ans 5
+s="acadview"
+course="python"
+fees=5000
+print('value %s is given as',%(s))
+print('value %s is given as',%(course))
+print('value %d is given as',%(fees))
+
+ans6
+print('%s''%d'%(name,salary))
+
+note in the question thre is extra bracket are included after %d which should not be present
